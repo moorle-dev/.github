@@ -2,7 +2,7 @@
 
 # Moorle
 
-Tools for game developers, made by one person. More tools will be listed here.
+Cool tools for game developers. More tools will be listed here.
 
 | Product | What it does | Feedback | Store |
 | --- | --- | --- | --- |
